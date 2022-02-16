@@ -25,7 +25,7 @@ I'm a statistics who is passionate about making contributing to open-source more
 - 😄 Pronouns: Camilo 
 - ⚡ Fun fact: I'm a huge fan of DBZ, Doraemon, I love to eat and travel. :100:
 
-## Connect with me 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/JuanCamilo18/JuanCamilo18/blob/main/imagenes/BitmajoV-unscreen.gif"></a>
+### Connect with me 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/JuanCamilo18/JuanCamilo18/blob/main/imagenes/BitmajoV-unscreen.gif"></a>
 
 <p align="left">
 <a href="https://twitter.com/JuanCamiloP118" target="blank"><img align="center" src="https://github.com/JuanCamilo18/JuanCamilo18/blob/main/imagenes/iconos/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -33,10 +33,7 @@ I'm a statistics who is passionate about making contributing to open-source more
 <a href="https://www.facebook.com/juancamilo.panta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-  [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
-
-<br />
-<br />
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/juancamilo.panta "Connect on Facebook")
 <br />
 <br />
 
@@ -48,8 +45,8 @@ I'm a statistics who is passionate about making contributing to open-source more
 ![Profile Views](https://komarev.com/ghpvc/?username=JuanCamilo18&color=blue)
 
 <details>
-  <summary>Some of my Github Public Stats :computer:</summary>
-<h3 align="left"> Code :chart_with_upwards_trend: </h3>
+  <summary> Code :chart_with_upwards_trend: :computer:</summary>
+  <h5 align="left"> Graphics code in R :bar_chart: </h5>
 
   ```R
   # Codigo R
