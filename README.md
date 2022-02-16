@@ -1,11 +1,9 @@
 
 <h2 align="center"> Hi, my name is Juan Camilo👋 👨🏻‍💻 :chart_with_upwards_trend: </h2>
-<!--
-poner imagen
-![me](https://)
--->
 
-<p align="center"> Iam a passionate <strong> Statistics </strong> from Perú. <br />¡Revisa mi contenido 👇!</p>
+![me](https://github.com/JuanCamilo18/JuanCamilo18/blob/main/imagenes/bannerjc.png)
+
+<p align="center"> Iam a passionate <strong> Statistics </strong> from Piura - Perú. <br />¡Revisa mi contenido 👇!</p>
 
   
 I'm a statistics who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include R, Jupyter, Data Studio and SPSS. 
@@ -24,20 +22,27 @@ I'm a statistics who is passionate about making contributing to open-source more
 ![R](https://img.shields.io/badge/-R-blue?style=plastic&logo=R)
 ![Rstudio](https://img.shields.io/badge/-Rstudio-white?style=plastic&logo=Rstudio)
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: Camilo 
 - ⚡ Fun fact: I'm a huge fan of DBZ, Doraemon, I love to eat and travel. :100:
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Connect with me 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/JuanCamilo18/JuanCamilo18/blob/main/imagenes/BitmajoV-unscreen.gif"></a>
 
 <p align="left">
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/JuanCamiloP118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<br />
+<br />
+<br />
+<br />
+ 
+ <h3 align="left"> Repositories :chart_with_upwards_trend: </h3>
+ 
+[![JuanCamilo18 github stats](https://github-readme-stats.vercel.app/api?username=JuanCamilo18&show_icons=true&theme=merko)](https://github.com/JuanCamilo18)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamilo18&layout=compact&theme=merko)](https://github.com/JuanCamilo18/github-readme-stats)
 
-[![JuanCamilo18 github stats](https://github-readme-stats.vercel.app/api?username=JuanCamilo18&theme=dark&show_icons=true)](https://github.com/JuanCamilo18)
+<h3 align="left"> Code :chart_with_upwards_trend: </h3>
 
 ```R
 # Codigo R
@@ -50,4 +55,11 @@ grid.arrange(p1, p2, ncol = 2)
 
 <!--
 comentarios
+[![JuanCamilo18 github stats](https://github-readme-stats.vercel.app/api?username=JuanCamilo18&theme=dark&show_icons=true)](https://github.com/JuanCamilo18)
+---
+[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 -->
